@@ -1,6 +1,6 @@
 ## Profile
 --------------------
-15+ years of embedded systems experience. Skilled in software development and integration on embedded Linux and Android. Recently, I've been involved in machine/deep learning accelerated by heterogeneous computing, ideally with GPU, FPGA, DSP (OpenCL, CUDA) for the past 5 years. Nowadays, my project is unsupervised learning implemented in TensorFlow.
+15+ years of embedded systems experience. Skilled in software development and integration on embedded Linux and Android. Recently, I've been involved in machine/deep learning accelerated by heterogeneous computing, ideally with GPU (OpenCL, CUDA), FPGA, DSP for the past 5 years. Nowadays, my project is unsupervised learning implemented in TensorFlow.
 
 ## Honors
 --------------------
