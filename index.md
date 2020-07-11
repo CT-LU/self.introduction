@@ -1,29 +1,11 @@
-## Welcome to GitHub Pages
+## Profile
 
-You can use the [editor on GitHub](https://github.com/CT-LU/self.introduction/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+15+ years of embedded systems experience. Skilled in software development and integration on embedded Linux and Android. Recently, I've been involved in machine/deep learning accelerated by heterogeneous computing, ideally with GPU, FPGA, DSP (OpenCL, CUDA) for the past 5 years. Nowadays, my project is unsupervised learning implemented in TensorFlow.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+## Honors
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+**Award:
+I won the 3rd place in CUDA programming contest in September 2009, NVIDIA Taiwan.
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
