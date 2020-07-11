@@ -18,7 +18,7 @@ Multiview encoder parallelized fast search realization on NVIDIA CUDA, Visual Co
 ![](https://raw.githubusercontent.com/CT-LU/self.introduction/master/DVJ_1000_FUNCTION.gif)
 ![](https://raw.githubusercontent.com/CT-LU/self.introduction/master/WD_TV_Play_is_a_great_streamer.gif)
 ![](https://raw.githubusercontent.com/CT-LU/self.introduction/master/Gesture_Control_TV.gif)
-
+![](https://raw.githubusercontent.com/CT-LU/self.introduction/master/Facial_Recognition.gif)
 
 ## EDUCATION
 --------------------
