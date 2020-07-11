@@ -7,7 +7,7 @@
 * **Award:**
 I won the 3rd place in CUDA programming contest in September 2009, NVIDIA Taiwan. (http://www.nvidia.com.tw/object/cuda_contest_main_tw.html)
 
-![](https://raw.githubusercontent.com/CT-LU/self.introduction/master/dd96c0_b5e1ff8854d44865b5737d24f141f0ad.webp)
+![](https://raw.githubusercontent.com/CT-LU/self.introduction/master/AA46A5C5-2DE5-42BA-890A-38EC4894B361.jpg)
 
 * **Publication :**
 Multiview encoder parallelized fast search realization on NVIDIA CUDA, Visual Communications and Image Processing (VCIP), 2011 IEEE.              
@@ -15,6 +15,10 @@ Multiview encoder parallelized fast search realization on NVIDIA CUDA, Visual Co
 
 ## Work Experience
 --------------------
+![](https://raw.githubusercontent.com/CT-LU/self.introduction/master/DVJ_1000_FUNCTION.gif)
+![](https://raw.githubusercontent.com/CT-LU/self.introduction/master/WD_TV_Play_is_a_great_streamer.gif)
+![](https://raw.githubusercontent.com/CT-LU/self.introduction/master/Gesture_Control_TV.gif)
+
 
 ## EDUCATION
 --------------------
