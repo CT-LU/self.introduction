@@ -1,3 +1,5 @@
+# Welcome to Ludan's pages
+
 ## Profile
 --------------------
 15+ years of embedded systems experience. Skilled in software development and integration on embedded Linux and Android. In the past 5 years, I've been involved in machine/deep learning accelerated by heterogeneous computing, ideally with GPU (OpenCL, CUDA), FPGA, DSP. Nowadays, my project is unsupervised learning implemented in TensorFlow.
