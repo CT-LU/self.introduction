@@ -30,7 +30,7 @@ Multiview encoder parallelized fast search realization on NVIDIA CUDA, Visual Co
 ![](https://raw.githubusercontent.com/CT-LU/self.introduction/master/Facial_Recognition.gif)
 * ### ALPHA Networks Inc (09/2010 - 07/20147)<br>
 ![](https://raw.githubusercontent.com/CT-LU/self.introduction/master/WD_TV_Play_is_a_great_streamer.gif)    
-> #### Project : WD TV
+> #### Project : WD TV<br>
 >> ##### BSP integration :
 >> - Decreased 50% workload by negotiating with chip vendors to solve the parts of issues.
 >> - Supervised an Android BSP team of 2 in integrating BSP applications and cooperating with chip vendors.
@@ -50,7 +50,7 @@ Multiview encoder parallelized fast search realization on NVIDIA CUDA, Visual Co
 
 * ### YA HORG Electronic Corp (02/2006 - 03/2007)<br>
 ![](https://raw.githubusercontent.com/CT-LU/self.introduction/master/DVJ_1000_FUNCTION.gif)
-> #### Project : DVJ Player
+> #### Project : DVJ Player<br>
 >> #### Firmware :
 >> - Increased 20% efficiency by avoiding unnecessary transactions. 
 >> - Ported IC firmware of the network chip (CS8900,  RTL8019) to DSP chip.
@@ -63,7 +63,7 @@ Multiview encoder parallelized fast search realization on NVIDIA CUDA, Visual Co
 >> - Ported DVD application includes image blending,  navigation module,  demuxer (parsing the mpeg2 packet to the decoder),  command interpreter,  and  image format translation (RGB to UYVY).
 
 * ### MITAC International Corp (06/2005 - 02/2006)
-> ##### Project : Mass Rapid Transit - Ticket System (MRT)
+> ##### Project : Mass Rapid Transit - Ticket System (MRT)<br>
 >> - Designed and implemented the IPC interface using IBM MQ.
 >> - Multithreaded socket programming for the communication between stations and the server.
 >> - Database using ORACLE OCCI (C++ embedded SQL).
