@@ -21,10 +21,10 @@ Multiview encoder parallelized fast search realization on NVIDIA CUDA, Visual Co
 
 * ### HON HAI/Foxconn Technology Group (09/2019 - Present)
 * ### LIPS Technology (02/2016 - 09/2019)
+Led a team of 6 to carry out a couple of projects:
 ![](https://raw.githubusercontent.com/CT-LU/self.introduction/master/3D_Hands_Pose.gif)
 ![](https://raw.githubusercontent.com/CT-LU/self.introduction/master/3D_Lableing_Tool.gif)
 ![](https://raw.githubusercontent.com/CT-LU/self.introduction/master/Optimization_2.5D_Body_Pose.gif)
-Led a team of 6 to carry out a couple of projects:
 > #### Project : 3D Hand Pose lower latency and higher accuracy compared to Leap Motion.
 > To bring your AR/VR experience to the next level, we are developing a CNN that smooths hand and finger tracking looks and feels more organic than ever. We organized every process, including a team for label  engineering, creating 3D label tools and training a regression CNN model with fast and accurate design.
 
@@ -35,16 +35,15 @@ Led a team of 6 to carry out a couple of projects:
 > Led a team of 4 to carry out a variety of the filters and algorithms for the depth calculation, image calibration , noise reduction and CNN-based inference through CUDA/OpenCL on the several architectures including (1). NVIDIA TK1/TX1(CUDA), (2). Mali, Adruino, Intel(OpenCL with SIMD instructions), (3). Altera Cyclone V FPGA(OpenCL in a pipelined fashion), (4). TI AM572x DSP(OpenCL with intrinsic functions) .
 
 * ### HON HAI/Foxconn Technology Group (07/2014 - 02/2016)<br>
+Led a team of 3 to implement proof of concept projects
 ![](https://raw.githubusercontent.com/CT-LU/self.introduction/master/Gesture_Control_TV.gif)
 ![](https://raw.githubusercontent.com/CT-LU/self.introduction/master/Facial_Recognition.gif)
 > #### Project : Facial recognition
 > Accuracy rate of 95.75% on the well-known and challenging LFW benchmark. 
-> Supervised a team of 3 in facial recognition research. We not only successfully trained DeepID2 network via NVIDIA DIGITS but also developed a prototype of facial recognition system composed of face detection(HOG + SVM), alignment, recognition(DeepID2 + cosine similarity). 
-
+> To evaluate facial recognition, We not only successfully trained DeepID2 network via NVIDIA DIGITS but also developed a prototype of facial recognition system composed of face detection(HOG + SVM), alignment, recognition(DeepID2 + cosine similarity). 
 > #### Project : Hand gesture
-
 > Increased 200% efficiency for object detection by using CUDA to accelerate the filters. 
-> Led a team of 3 to create the hand gesture system on NVIDIA TK1. We implemented fast R-CNN involving the region proposal(selective search), CNN(CaffeNet network), and recognition(fine tuning the softmax classifier). Furthermore, we invented an algorithm that can efficiently analysis the hand motions under depth images.
+> Created the hand gesture system on NVIDIA TK1. We implemented fast R-CNN involving the region proposal(selective search), CNN(CaffeNet network), and recognition(fine tuning the softmax classifier). Furthermore, we invented an algorithm that can efficiently analysis the hand motions under depth images.
 
 * ### ALPHA Networks Inc (09/2010 - 07/20147)<br>
 ![](https://raw.githubusercontent.com/CT-LU/self.introduction/master/WD_TV_Play_is_a_great_streamer.gif)    
