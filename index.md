@@ -34,7 +34,6 @@ Multiview encoder parallelized fast search realization on NVIDIA CUDA, Visual Co
 ![](https://raw.githubusercontent.com/CT-LU/self.introduction/master/DVJ_1000_FUNCTION.gif)
 * **MITAC International Corp (06/2005 - 02/2006)**
 > Project : Mass Rapid Transit - Ticket System (MRT)
-> - Implemented the back-end services on server-side.
 > - Designed and implemented the IPC interface using IBM MQ.
 > - Multithreaded socket programming for the communication between stations and the server.
 > - Database using ORACLE OCCI (C++ embedded SQL).
@@ -43,6 +42,6 @@ Multiview encoder parallelized fast search realization on NVIDIA CUDA, Visual Co
 ## EDUCATION
 ------
 * **National Taipei University of Technology**<br>
-        Master's Degree in Computer and Information Sciences.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Master's Degree in Computer and Information Sciences.
 * **National Yunlin University of Science and Technology**<br>
-       Bachelor's Degree in Management Information Systems.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bachelor's Degree in Management Information Systems.
