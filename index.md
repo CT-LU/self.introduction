@@ -43,6 +43,6 @@ Multiview encoder parallelized fast search realization on NVIDIA CUDA, Visual Co
 ## EDUCATION
 ------
 * **National Taipei University of Technology**
-        Master's Degree in Computer and Information Sciences.
+        <br>Master's Degree in Computer and Information Sciences.
 * **National Yunlin University of Science and Technology**
-       Bachelor's Degree in Management Information Systems.
+       <br>Bachelor's Degree in Management Information Systems.
