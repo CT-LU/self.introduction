@@ -35,18 +35,15 @@ Multiview encoder parallelized fast search realization on NVIDIA CUDA, Visual Co
 >> - Supervised an Android BSP team of 2 in integrating BSP applications and cooperating with chip vendors.
 >> - Ported existing software to Android platform (implemented services with android binder).
 >> - Implemented a Linux device driver using GPIO to control peripheral devices.
-
 >> Hacking and Mimicking AirPlay protocol :
 >> - Successfully imitate AirPlay protocol.
 >> - Analysed the network packet of AirPlay protocol (using Wireshark).
 >> - Mimicked AirPlay protocol and implemented displaying photos, slideshows and videos functions on our box.
-
 >> Framework development :
 >> - Improved work efficiency over 300% by using Python to develop back-end services.
 >> - Designed and created a framework using the D-Bus libraries to achieve greater capability in communication between various program languages of Javascript, C/C++ and Python.
 >> - Led a team of 2 to design and implement applications UI of MLB and the App Store (using HTML5/JavaScript/css).
 >> - Designed and implemented the App Store both on the back-end service and the server (using python).
-
 >> Implemented Web applications UI :
 >> - (a). Accuweather. (b). Shoutcast. (c). Wizard. (d). Yahoo weather. Fetching the data from specific URL and parsing the returned files (XML or Jason format) to display the information on the screen according to its design specification.
 
@@ -57,7 +54,6 @@ Multiview encoder parallelized fast search realization on NVIDIA CUDA, Visual Co
 >> - Increased 20% efficiency by avoiding unnecessary transactions. 
 >> - Ported IC firmware of the network chip (CS8900,  RTL8019) to DSP chip.
 >> - Created IC firmware of the IDE ATA/ATAPI and I2C on DSP chip.
-
 >> Software :
 >> - Successfully implemented playing DVD in reverse.
 >> - The development of tools of the TFTP client and SHELL command.
