@@ -9,7 +9,7 @@
 * **Award:**
 I won the 3rd place in CUDA programming contest in September 2009, NVIDIA Taiwan. <http://www.nvidia.com.tw/object/cuda_contest_main_tw.html>
 
-![](https://raw.githubusercontent.com/CT-LU/self.introduction/master/AA46A5C5-2DE5-42BA-890A-38EC4894B361.jpg)
+![](https://raw.githubusercontent.com/CT-LU/self.introduction/master/Contest.jpg)
 
 * **Publication :**
 Multiview encoder parallelized fast search realization on NVIDIA CUDA, Visual Communications and Image Processing (VCIP), 2011 IEEE. <https://ieeexplore.ieee.org/abstract/document/6116010>
