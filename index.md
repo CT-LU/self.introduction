@@ -24,10 +24,10 @@ Multiview encoder parallelized fast search realization on NVIDIA CUDA, Visual Co
 ![](https://raw.githubusercontent.com/CT-LU/self.introduction/master/3D_Lableing_Tool.gif)
 ![](https://raw.githubusercontent.com/CT-LU/self.introduction/master/Optimization_2.5D_Body_Pose.gif)
 
-* **HON HAI/Foxconn Technology Group (09/2019 - Present)**
-* **LIPS Technology (02/2016 - 09/2019)**
-* **HON HAI/Foxconn Technology Group (07/2014 - 02/2016)**
-* **ALPHA Networks Inc (09/2010 - 07/20147)**<br>
+* ### HON HAI/Foxconn Technology Group (09/2019 - Present)
+* ### LIPS Technology (02/2016 - 09/2019)
+* ### HON HAI/Foxconn Technology Group (07/2014 - 02/2016)
+* ### ALPHA Networks Inc (09/2010 - 07/20147)<br>
 ![](https://raw.githubusercontent.com/CT-LU/self.introduction/master/WD_TV_Play_is_a_great_streamer.gif)    
 > *Project : WD TV*<br>
 >> BSP integration :
@@ -47,26 +47,26 @@ Multiview encoder parallelized fast search realization on NVIDIA CUDA, Visual Co
 >> Implemented Web applications UI :
 >> - (a). Accuweather. (b). Shoutcast. (c). Wizard. (d). Yahoo weather. Fetching the data from specific URL and parsing the returned files (XML or Jason format) to display the information on the screen according to its design specification.
 
-* **YA HORG Electronic Corp (02/2006 - 03/2007)**<br>
+* ### YA HORG Electronic Corp (02/2006 - 03/2007)<br>
 ![](https://raw.githubusercontent.com/CT-LU/self.introduction/master/DVJ_1000_FUNCTION.gif)
 > *Project : DVJ Player*<br>
->> Firmware :
+>> - Firmware :
 >> - Increased 20% efficiency by avoiding unnecessary transactions. 
 >> - Ported IC firmware of the network chip (CS8900,  RTL8019) to DSP chip.
 >> - Created IC firmware of the IDE ATA/ATAPI and I2C on DSP chip.
->> Software :
+>> - Software :
 >> - Successfully implemented playing DVD in reverse.
 >> - The development of tools of the TFTP client and SHELL command.
 >> - Developed the UDF file system and implemented the sliding window of the file cache for sending file data to the DVD player.
 >> - Designed and implemented a microkernel for the task-switching process.
 >> - Ported DVD application includes image blending,  navigation module,  demuxer (parsing the mpeg2 packet to the decoder),  command interpreter,  and  image format translation (RGB to UYVY).
 
-* **MITAC International Corp (06/2005 - 02/2006)**
-> *Project : Mass Rapid Transit - Ticket System (MRT)*
-> - Designed and implemented the IPC interface using IBM MQ.
-> - Multithreaded socket programming for the communication between stations and the server.
-> - Database using ORACLE OCCI (C++ embedded SQL).
-> - UI design using Borland C++.
+* ### MITAC International Corp (06/2005 - 02/2006)
+> # Project : Mass Rapid Transit - Ticket System (MRT)
+>> - Designed and implemented the IPC interface using IBM MQ.
+>> - Multithreaded socket programming for the communication between stations and the server.
+>> - Database using ORACLE OCCI (C++ embedded SQL).
+>> - UI design using Borland C++.
 
 ## EDUCATION
 ------
