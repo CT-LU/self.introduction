@@ -81,7 +81,7 @@ Led a team of 3 to implement proof of concept projects
 
 * ### MITAC International Corp (06/2005 - 02/2006)
 > #### Project : Mass Rapid Transit - Ticket System (MRT)<br>
->> - Designed and implemented the IPC interface using IBM MQ.
+>> - Designed and implemented interprocess communication using IBM MQ.
 >> - Multithreaded socket programming for the communication between stations and the server.
 >> - Database using ORACLE OCCI (C++ embedded SQL).
 >> - UI design using Borland C++.
