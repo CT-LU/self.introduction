@@ -21,9 +21,9 @@ Multiview encoder parallelized fast search realization on NVIDIA CUDA, Visual Co
 
 * ### HON HAI/Foxconn Technology Group (09/2019 - Present)
 * ### LIPS Technology (02/2016 - 09/2019)
-Led a team of 6 to carry out a couple of projects:
-![](https://raw.githubusercontent.com/CT-LU/self.introduction/master/3D_Hands_Pose.gif)
-![](https://raw.githubusercontent.com/CT-LU/self.introduction/master/3D_Lableing_Tool.gif)
+> Led a team of 6 to carry out a couple of projects:<br>
+> ![](https://raw.githubusercontent.com/CT-LU/self.introduction/master/3D_Hands_Pose.gif)
+![](https://raw.githubusercontent.com/CT-LU/self.introduction/master/3D_Lableing_Tool.gif)<br>
 ![](https://raw.githubusercontent.com/CT-LU/self.introduction/master/Optimization_2.5D_Body_Pose.gif)
 > #### Project : 3D Hand Pose lower latency and higher accuracy compared to Leap Motion.
 > To bring your AR/VR experience to the next level, we are developing a CNN that smooths hand and finger tracking looks and feels more organic than ever. We organized every process, including a team for label  engineering, creating 3D label tools and training a regression CNN model with fast and accurate design.
@@ -32,11 +32,11 @@ Led a team of 6 to carry out a couple of projects:
 > We created a system to estimate and track 3D poses of multiple persons by using a CNN for 2D pose estimation and extending the resulting skeletons to 3D by means of the sensor depth in calibrated RGB-Depth camera. To be a real time application,  we designed and compressed the CNN model as well as accelerated it by using NVIDIA TensorRT and Intel OpenVINO.
 
 > #### Project : TOF Camera
-> Led a team of 4 to carry out a variety of the filters and algorithms for the depth calculation, image calibration , noise reduction and CNN-based inference through CUDA/OpenCL on the several architectures including (1). NVIDIA TK1/TX1(CUDA), (2). Mali, Adruino, Intel(OpenCL with SIMD instructions), (3). Altera Cyclone V FPGA(OpenCL in a pipelined fashion), (4). TI AM572x DSP(OpenCL with intrinsic functions) .
+> Led a team of 4 to carry out a variety of the filters and algorithms for the depth calculation, image calibration , noise reduction and CNN-based inference through CUDA/OpenCL on the several architectures including (1). NVIDIA TK1/TX1(CUDA), (2). Mali, Adruino, Intel(OpenCL with SIMD instructions), (3). Altera Cyclone V FPGA(OpenCL in a pipelined fashion), (4). CEVA DSP(intrinsic functions) .
 
 * ### HON HAI/Foxconn Technology Group (07/2014 - 02/2016)<br>
-Led a team of 3 to implement proof of concept projects
-![](https://raw.githubusercontent.com/CT-LU/self.introduction/master/Gesture_Control_TV.gif)
+> Led a team of 3 to implement proof of concept projects<br>
+> ![](https://raw.githubusercontent.com/CT-LU/self.introduction/master/Gesture_Control_TV.gif)
 ![](https://raw.githubusercontent.com/CT-LU/self.introduction/master/Facial_Recognition.gif)
 > #### Project : Facial recognition
 > Accuracy rate of 95.75% on the well-known and challenging LFW benchmark. 
