@@ -15,13 +15,10 @@ I won the 3rd place in CUDA programming contest in September 2009, NVIDIA Taiwan
 Multiview encoder parallelized fast search realization on NVIDIA CUDA, Visual Communications and Image Processing (VCIP), 2011 IEEE. <https://ieeexplore.ieee.org/abstract/document/6116010>
 
 ## Work Experience
-------
-
-
-
+-----
 * ### HON HAI/Foxconn Technology Group (09/2019 - Present)
 * ### LIPS Technology (02/2016 - 09/2019)
-> Led a team of 6 to carry out a couple of projects:<br>
+> #### Led a team of 6 to carry out several projects for proof of concept and mass production:<br>
 > ![](https://raw.githubusercontent.com/CT-LU/self.introduction/master/3D_Hands_Pose.gif)
 ![](https://raw.githubusercontent.com/CT-LU/self.introduction/master/3D_Lableing_Tool.gif)<br>
 ![](https://raw.githubusercontent.com/CT-LU/self.introduction/master/Optimization_2.5D_Body_Pose.gif)
