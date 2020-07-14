@@ -29,10 +29,10 @@ Multiview encoder parallelized fast search realization on NVIDIA CUDA, Visual Co
 > We created a system to estimate and track 3D poses of multiple persons by using a CNN for 2D pose estimation and extending the resulting skeletons to 3D by means of the sensor depth in calibrated RGB-Depth camera. To be a real time application,  we designed and compressed the CNN model as well as accelerated it by using NVIDIA TensorRT and Intel OpenVINO.
 
 > #### Project : TOF Camera
-> Led a team of 4 to carry out a variety of the filters and algorithms for the depth calculation, image calibration , noise reduction and CNN-based inference through CUDA/OpenCL on the several architectures including (1). NVIDIA TK1/TX1(CUDA), (2). Mali, Adruino, Intel(OpenCL with SIMD instructions), (3). Altera Cyclone V FPGA(OpenCL in a pipelined fashion), (4). CEVA DSP(intrinsic functions) .
+> Accomplished a variety of the filters and algorithms for the depth calculation, image calibration , noise reduction and CNN-based inference through CUDA/OpenCL on the several architectures including (1). NVIDIA TK1/TX1(CUDA), (2). Mali, Adruino, Intel(OpenCL with SIMD instructions), (3). Altera Cyclone V FPGA(OpenCL in a pipelined fashion), (4). CEVA DSP(intrinsic functions) .
 
 * ### HON HAI/Foxconn Technology Group (07/2014 - 02/2016)<br>
-> Led a team of 3 to implement proof of concept projects<br>
+> Led a team of 3 to create proof of concept projects<br>
 > ![](https://raw.githubusercontent.com/CT-LU/self.introduction/master/Gesture_Control_TV.gif)
 ![](https://raw.githubusercontent.com/CT-LU/self.introduction/master/Facial_Recognition.gif)
 > #### Project : Facial recognition
