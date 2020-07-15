@@ -63,11 +63,11 @@ Multiview encoder parallelized fast search realization on NVIDIA CUDA, Visual Co
 * ### YA HORG Electronic Corp (02/2006 - 03/2007)<br>
 ![](https://raw.githubusercontent.com/CT-LU/self.introduction/master/DVJ_1000_FUNCTION.gif)
 > #### Project : DVJ Player<br>
-> - **Firmware :**
+> 1. **Firmware :**
 > - Increased 20% efficiency by avoiding unnecessary transactions. 
 > - Ported IC firmware of the network chip (CS8900,  RTL8019) to DSP chip.
 > - Created IC firmware of the IDE ATA/ATAPI and I2C on DSP chip.
-> - **Software :**
+> 2. **Software :**
 > - Successfully implemented playing DVD in reverse.
 > - The development of tools of the TFTP client and SHELL command.
 > - Developed the UDF file system and implemented the sliding window of the file cache for sending file data to the DVD player.
