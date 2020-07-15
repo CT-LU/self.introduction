@@ -21,9 +21,9 @@ Multiview encoder parallelized fast search realization on NVIDIA CUDA, Visual Co
 > #### Led a team of 6 to carry out several projects for proof of concept and mass production:<br>
 > ![](https://raw.githubusercontent.com/CT-LU/self.introduction/master/3D_Hands_Pose.gif)
 ![](https://raw.githubusercontent.com/CT-LU/self.introduction/master/3D_Lableing_Tool.gif)<br>
-![](https://raw.githubusercontent.com/CT-LU/self.introduction/master/Optimization_2.5D_Body_Pose.gif)
 > #### Project : 3D Hand Pose lower latency and higher accuracy compared to Leap Motion.
 > To bring your AR/VR experience to the next level, we are developing a CNN that smooths hand and finger tracking looks and feels more organic than ever. We organized every process, including a team for label  engineering, creating 3D label tools and training a regression CNN model with fast and accurate design.
+> ![](https://raw.githubusercontent.com/CT-LU/self.introduction/master/Optimization_2.5D_Body_Pose.gif)
 > #### 3D Body Pose  Real-time detection using TensorRT and OpenVINO
 > We created a system to estimate and track 3D poses of multiple persons by using a CNN for 2D pose estimation and extending the resulting skeletons to 3D by means of the sensor depth in calibrated RGB-Depth camera. To be a real time application,  we designed and compressed the CNN model as well as accelerated it by using NVIDIA TensorRT and Intel OpenVINO.
 > #### Project : TOF Camera
