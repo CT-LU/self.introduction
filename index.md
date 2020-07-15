@@ -30,8 +30,8 @@ Multiview encoder parallelized fast search realization on NVIDIA CUDA, Visual Co
 > Accomplished a variety of the filters and algorithms for the depth calculation, image calibration , noise reduction and CNN-based inference through CUDA/OpenCL on the several architectures including (1). NVIDIA TK1/TX1(CUDA), (2). Mali, Adruino, Intel(OpenCL with SIMD instructions), (3). Altera Cyclone V FPGA(OpenCL in a pipelined fashion), (4). CEVA DSP(intrinsic functions) .
 
 * ### HON HAI/Foxconn Technology Group (07/2014 - 02/2016)
-> Led a team of 3 to create proof of concept projects<br>
-> ![](https://raw.githubusercontent.com/CT-LU/self.introduction/master/Gesture_Control_TV.gif)<
+> #### Led a team of 3 to create proof of concept projects<br>
+> ![](https://raw.githubusercontent.com/CT-LU/self.introduction/master/Gesture_Control_TV.gif)<br>
 ![](https://raw.githubusercontent.com/CT-LU/self.introduction/master/Facial_Recognition.gif)
 > #### Project : Facial recognition
 > Accuracy rate of 95.75% on the well-known and challenging LFW benchmark. 
