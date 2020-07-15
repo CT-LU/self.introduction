@@ -34,7 +34,7 @@ Multiview encoder parallelized fast search realization on NVIDIA CUDA, Visual Co
 > ![](https://raw.githubusercontent.com/CT-LU/self.introduction/master/Facial_Recognition.gif)
 > #### Project : Facial recognition
 > Accuracy rate of 95.75% on the well-known and challenging LFW benchmark. 
-> To evaluate facial recognition, We not only successfully trained DeepID2 network via NVIDIA DIGITS but also developed a prototype of facial recognition system composed of face detection(HOG + SVM), alignment, recognition(DeepID2 + cosine similarity).<br> 
+> To evaluate facial recognition, We not only successfully trained DeepID2 network via NVIDIA DIGITS but also developed a prototype of facial recognition system composed of face detection(HOG + SVM), alignment, recognition(DeepID2 + cosine similarity).
 > ![](https://raw.githubusercontent.com/CT-LU/self.introduction/master/Gesture_Control_TV.gif)
 > #### Project : Hand gesture
 > Increased 200% efficiency for object detection by using CUDA to accelerate the filters. 
