@@ -31,11 +31,11 @@ Multiview encoder parallelized fast search realization on NVIDIA CUDA, Visual Co
 
 * ### HON HAI/Foxconn Technology Group (07/2014 - 02/2016)
 > #### Led a team of 3 to create proof of concept projects<br>
-> ![](https://raw.githubusercontent.com/CT-LU/self.introduction/master/Gesture_Control_TV.gif)<br>
-![](https://raw.githubusercontent.com/CT-LU/self.introduction/master/Facial_Recognition.gif)
+> ![](https://raw.githubusercontent.com/CT-LU/self.introduction/master/Facial_Recognition.gif)<br>
 > #### Project : Facial recognition
 > Accuracy rate of 95.75% on the well-known and challenging LFW benchmark. 
 > To evaluate facial recognition, We not only successfully trained DeepID2 network via NVIDIA DIGITS but also developed a prototype of facial recognition system composed of face detection(HOG + SVM), alignment, recognition(DeepID2 + cosine similarity). 
+> ![](https://raw.githubusercontent.com/CT-LU/self.introduction/master/Gesture_Control_TV.gif)<br>
 > #### Project : Hand gesture
 > Increased 200% efficiency for object detection by using CUDA to accelerate the filters. 
 > Created the hand gesture system on NVIDIA TK1. We implemented fast R-CNN involving the region proposal(selective search), CNN(CaffeNet network), and recognition(fine tuning the softmax classifier). Furthermore, we invented an algorithm that can efficiently analysis the hand motions under depth images.
